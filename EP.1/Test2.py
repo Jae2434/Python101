@@ -1,0 +1,11 @@
+import turtle
+tao = turtle.Pen()
+tao.shape('turtle')
+tao.forward(40)
+tao.left(90)
+tao.forward(40)
+tao.left(90)
+tao.forward(40)
+tao.left(90)
+tao.forward(40)
+tao.left(90)
